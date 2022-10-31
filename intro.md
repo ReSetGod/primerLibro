@@ -13,4 +13,3 @@
 - [Lotus Eletre: un SUV eléctrico con pantalla OLED de 15,1 pulgadas no apto para puristas](terceranoticia.md "Automóvil Lotus")
 ![imágen gadgets](terceranoticiaimg.jpg)
 
-
